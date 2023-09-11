@@ -1,0 +1,12 @@
+C:\Users\venta\source\repos\FormatoExcell2\FormatoExcell2\bin\Debug\FormatoExcell2.exe.config
+C:\Users\venta\source\repos\FormatoExcell2\FormatoExcell2\bin\Debug\FormatoExcell2.exe
+C:\Users\venta\source\repos\FormatoExcell2\FormatoExcell2\bin\Debug\FormatoExcell2.pdb
+C:\Users\venta\source\repos\FormatoExcell2\FormatoExcell2\bin\Debug\FormatoExcell2.xml
+C:\Users\venta\source\repos\FormatoExcell2\FormatoExcell2\obj\Debug\FormatoExcell2.vbproj.AssemblyReference.cache
+C:\Users\venta\source\repos\FormatoExcell2\FormatoExcell2\obj\Debug\FormatoExcell2.Form1.resources
+C:\Users\venta\source\repos\FormatoExcell2\FormatoExcell2\obj\Debug\FormatoExcell2.Resources.resources
+C:\Users\venta\source\repos\FormatoExcell2\FormatoExcell2\obj\Debug\FormatoExcell2.vbproj.GenerateResource.cache
+C:\Users\venta\source\repos\FormatoExcell2\FormatoExcell2\obj\Debug\FormatoExcell2.vbproj.CoreCompileInputs.cache
+C:\Users\venta\source\repos\FormatoExcell2\FormatoExcell2\obj\Debug\FormatoExcell2.exe
+C:\Users\venta\source\repos\FormatoExcell2\FormatoExcell2\obj\Debug\FormatoExcell2.xml
+C:\Users\venta\source\repos\FormatoExcell2\FormatoExcell2\obj\Debug\FormatoExcell2.pdb
